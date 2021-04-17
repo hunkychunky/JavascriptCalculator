@@ -7,5 +7,5 @@
  Screen Captured on Chrome.
 
  <p align = 'center'>
-    <img src ='https://github.com/hunkychunky/A-Simple-Calculator-/blob/main/calc1.png' width="300"/>
+    <img src ='https://github.com/hunkychunky/A-Simple-Calculator-/blob/main/img/calc1.png' width="300"/>
  </p>   
